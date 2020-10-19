@@ -1,0 +1,10 @@
+C:\Users\birhanu\Desktop\Distance File\DistanceCalculator\DistanceCalculator\bin\Debug\DistanceCalculator.exe.config
+C:\Users\birhanu\Desktop\Distance File\DistanceCalculator\DistanceCalculator\bin\Debug\DistanceCalculator.exe
+C:\Users\birhanu\Desktop\Distance File\DistanceCalculator\DistanceCalculator\bin\Debug\DistanceCalculator.pdb
+C:\Users\birhanu\Desktop\Distance File\DistanceCalculator\DistanceCalculator\obj\Debug\DistanceCalculator.csprojAssemblyReference.cache
+C:\Users\birhanu\Desktop\Distance File\DistanceCalculator\DistanceCalculator\obj\Debug\DistanceCalculator.Form1.resources
+C:\Users\birhanu\Desktop\Distance File\DistanceCalculator\DistanceCalculator\obj\Debug\DistanceCalculator.Properties.Resources.resources
+C:\Users\birhanu\Desktop\Distance File\DistanceCalculator\DistanceCalculator\obj\Debug\DistanceCalculator.csproj.GenerateResource.cache
+C:\Users\birhanu\Desktop\Distance File\DistanceCalculator\DistanceCalculator\obj\Debug\DistanceCalculator.csproj.CoreCompileInputs.cache
+C:\Users\birhanu\Desktop\Distance File\DistanceCalculator\DistanceCalculator\obj\Debug\DistanceCalculator.exe
+C:\Users\birhanu\Desktop\Distance File\DistanceCalculator\DistanceCalculator\obj\Debug\DistanceCalculator.pdb

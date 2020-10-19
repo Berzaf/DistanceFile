@@ -1,0 +1,8 @@
+After hour 1 the vehicle traveled 40.00 miles.
+After hour 2 the vehicle traveled 80.00 miles.
+After hour 3 the vehicle traveled 120.00 miles.
+After hour 4 the vehicle traveled 160.00 miles.
+After hour 5 the vehicle traveled 200.00 miles.
+After hour 6 the vehicle traveled 240.00 miles.
+After hour 7 the vehicle traveled 280.00 miles.
+After hour 8 the vehicle traveled 320.00 miles.
